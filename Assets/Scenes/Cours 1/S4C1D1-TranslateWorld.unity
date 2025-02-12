@@ -141,6 +141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _deplacement: {x: 0.4, y: 0.1, z: 1}
+  _rotation: {x: 1, y: 0, z: 0}
 --- !u!135 &244657887
 SphereCollider:
   m_ObjectHideFlags: 0
